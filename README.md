@@ -1,8 +1,8 @@
-## Hi there 👋
+<h1 align="center">Welcom to Hasegos Github 👋</h1>
 
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Venom&color=9d74d6&height=270&section=header&text=Hasegos%20Github&fontSize=80&fontColor=000000">
+  <img src="https://capsule-render.vercel.app/api?type=Venom&color=9d74d6&height=240&section=header&text=Hasegos%20Github&fontSize=75&fontColor=000000">
 </div>
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
