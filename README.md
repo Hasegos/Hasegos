@@ -24,9 +24,9 @@
 </div>
 <br>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SuhoBam&show_icons=true&theme=tru">&nbsp
+    <img src="https://github-readme-stats.vercel.app/api?username=Hasegos&show_icons=true&theme=tru">&nbsp
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yourname"> &nbsp
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhoBam&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact">&nbsp    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasegos&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact">&nbsp    
 </div>
 <br>
 <h3 align="center">🛠 Tools 🛠</h3>
