@@ -28,7 +28,6 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yourname"> &nbsp
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasegos&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact">&nbsp    
 </div>
-<br>
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
@@ -39,7 +38,6 @@
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">&nbsp  
 </div>
-<br>
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">  
     <a href="https://velog.io/@csw020106">
