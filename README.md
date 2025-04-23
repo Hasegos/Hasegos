@@ -27,8 +27,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Hasegos&show_icons=true&theme=tru">&nbsp
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yourname"> &nbsp
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasegos&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact">&nbsp 
-    <div align="center">
-      <img src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D32507%26project%3D%26in=0">
+    <div align="center">     
+      <img src="https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D32507%26project%3D%26in=0">      
     </div>
 </div>
 <h3 align="center">🛠 Tools 🛠</h3>
