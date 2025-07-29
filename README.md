@@ -61,7 +61,7 @@
 |프로젝트|설명|
 |---|:---:|
 |CloneTube|유튜브 클론 프로젝트, 동영상 업로드, 댓글/구독 기능 구현 (HTML5 + CSS + Javascript)|
-|당근마켓 클론|게시글 CRUD, 이미지 업로드(S3), 지역 기반 UI 구성(Geocoding) (Spring Boot + Thymeleaf + AWS S3)|
+|당근마켓 클론|게시글 CRUD, 이미지 업로드(S3), 채팅방 및 Gemini 챗봇방 구성(WebSocket) (Spring Boot + Thymeleaf + AWS S3)|
 |LoA Character Finder|로스트아크 API를 활용해 캐릭터 정보 조회 기능 구현 (Java + Spring Boot + REST API)|
 
 <hr>
